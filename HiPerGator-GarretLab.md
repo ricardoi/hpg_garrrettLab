@@ -80,7 +80,7 @@ get name_of_your_remote_file
 ```
 
 
-----------------
+------
 **HPG to local**
 `scp gatorlink@hpg.rc.ufl.edu:/home//PATH_TO_FILE .`
 
@@ -94,9 +94,20 @@ get name_of_your_remote_file
 ------
 #### Useful commands
 **job queue**
-`squeue -u gatorlink`
-`squeue --qos epi <or> plantpath`
+
+```
+squeue -u gatorlink
+```
+```
+squeue --qos epi <or> plantpath
+```
+
 **Association**
-`showAssoc username`
+```
+showAssoc username
+```
+
 **quota**
-`lfs quota -g garrett /ufrc`
+```
+lfs quota -g garrett /ufrc
+```
