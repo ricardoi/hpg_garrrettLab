@@ -80,23 +80,23 @@ get name_of_your_remote_file
 ```
 
 
-** HPG to local**
+----------------
+**HPG to local**
 `scp gatorlink@hpg.rc.ufl.edu:/home//PATH_TO_FILE .`
 
-** local to HPG** 
+**local to HPG** 
 `scp myfile gatorlink@hpg.rc.ufl.edu:/home/gatorlinkralcala/PATH_TO_FILE`
 
-------
 ### SFTP protocols from hypergator
 `module load ncftp`
 `ncftpget -R ftp://ADDRESS`
 
 ------
-### hypergator commands
-**jobs**
+#### Useful commands
+**job queue**
 `squeue -u gatorlink`
 `squeue --qos epi <or> plantpath`
 **Association**
 `showAssoc username`
-**quoata**
+**quota**
 `lfs quota -g garrett /ufrc`
