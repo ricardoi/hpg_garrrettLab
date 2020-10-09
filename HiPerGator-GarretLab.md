@@ -1,6 +1,6 @@
 # HiPerGator: User Manual [GarrettLab](https://www.garrettlab.com/)
-                                                             by Ricardo I. Alcalá 
-                                                               -- ralcala@ufl.edu
+                                                                                                       by Ricardo I. Alcalá 
+                                                                                                         -- ralcala@ufl.edu
 
 ## Connecting to HiPerGator computer
 First thing you need is an `ssh client`, which is the secure shell protocol to connect through the internet to HiPerGator  (**HPG**) ``ssh server`` .
