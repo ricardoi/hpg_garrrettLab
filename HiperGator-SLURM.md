@@ -1,4 +1,4 @@
-# SLURM: Scheduler for HiperGator
+## SLURM: Scheduler for HiperGator
 
 
 ```bash
