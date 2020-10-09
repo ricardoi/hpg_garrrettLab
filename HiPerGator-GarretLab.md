@@ -23,16 +23,16 @@ type your **UF password**.
 Now that you are connected to **HPG** with **Red Hat** as _Operative System_ (OS), one of the many flavors of Linux,  regular ``bash`` command language can be used once logged in. 
 ```bash
 #bash commands
-pwd		# print working directory
-cd 		# change directory
-ls 		# list files
-mv		# move files
-cp		# copy files
-mkdir 	# make directory
-rm 		# remove files ## be carefully, once deleted no regerts
-more	# display files
-cat		# read & concatenate files
-nano	# create a text file
+pwd		  # print working directory
+cd 		  # change directory
+ls 		  # list files
+mv		  # move files
+cp		  # copy files
+mkdir     # make directory
+rm 		  # remove files ## be carefully, once deleted no regerts
+more	    # display files
+cat		  # read & concatenate files
+nano	    # create a text file
 ```  
 
 ------------------------------
