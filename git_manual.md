@@ -7,20 +7,21 @@
 Git is a version control platform that helps you to organize, collaborate and share your scripts. 
 You can open a free account for [github](https://github.com/)
 
-After opening the accout, follow up this instructions for setting up you git hub account 
+After opening the accout, just follow up the instructions for setting up you GitHub account: 
 
-- ## Set your user name
+- ## Set your git user name
   ```bash
     git config --global user.name "<your_name_here>"
   ```
-- ## Set your e-mail
+- ## Set your git e-mail # if you have UF credentials, use them, we have access to **PRO accounts** 
   ```bash
   git config --global user.email "<your_email@email.com>"
   ```
  
 After setting up your account, you can start using your git 
 >Note: remember that you have your local git (your personal computer) and your remote git (your GitHub website).
-So, if you make a change in your local git, you have to save it first with _git add ._, then commit (make sure you want) the change/update with _git commit -m 'Yes, I want to commit', and finalize with pushing your local changes with _git push_.  
+So, if you make a change in your local git, you have to save it first with `git add .`, then commit (make sure you want) the _change/update_ with 
+`git commit -m 'Yes, I want to commit'`, and finalize with pushing your local changes with `git push`.  
 
 
 -	## Checking first 
