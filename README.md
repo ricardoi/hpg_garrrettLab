@@ -9,4 +9,4 @@ Links to content
 -  [Git Manual](https://github.com/ricardoi/hpg_garrrettLab/blob/main/git_manual.md): tutorial to start using git and most useful commmands
 
 Here you will find the HiPerGator SLURM script to schedule your jobs
--  [SLURM script](https://github.com/ricardoi/hpg_garrrettLab/blob/main/HiperGator-SLURM.md)
+-  [SLURM script](https://github.com/ricardoi/hpg_garrrettLab/blob/main/HiperGator-SLURM.md): TEMPLATE FOR HiperGator scheduler
