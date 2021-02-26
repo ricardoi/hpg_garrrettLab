@@ -30,9 +30,9 @@ So, if you make a change in your local git, you have to save it first with `git 
 	git status
 	```
 
--	## Clonning repo
+-	## Clonning repository
 	```bash
-	git clone repository http://github.io/repo_name
+	git clone http://github.io/user_name/repository_name
 	```
 -	## Adding files 
 	```bash
