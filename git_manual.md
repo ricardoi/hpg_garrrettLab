@@ -20,8 +20,8 @@ After opening the accout, just follow up the instructions for setting up you Git
  
 After setting up your account, you can start using your git 
 >Note: remember that you have your local git (your personal computer) and your remote git (your GitHub website).
-So, if you make a change in your local git, you have to save it first with `git add .`, then commit (make sure you want) the _change/update_ with 
-`git commit -m 'Yes, I want to commit'`, and finalize with pushing your local changes with `git push`.  
+So, if you make a change in your local git, you have to save it first with `git add .`, then commit (the change you want) the _change_ with 
+`git commit -m 'Yes, I want to commit my last change'`, and finalize with pushing your local changes using `git push` to your _online git_
 
 
 -	## Checking first 
