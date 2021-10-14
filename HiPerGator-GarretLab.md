@@ -14,6 +14,11 @@ To connect to HPG using your `ssh client` type
 ```bash	
 ssh gatorlink@hpg.rc.ufl.edu
 ```
+new port for dual authentication
+```bash 
+ ssh -p 2222 GatorLink@hpg.rc.ufl.edu
+ ```
+
 type your **UF password**.
 <sup>Tip:  you can also login to `hpg1` and `hpg2` if specified at login.<sup>
 
